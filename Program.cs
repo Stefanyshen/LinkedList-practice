@@ -6,20 +6,6 @@ namespace AlgoritmsLab5
     {
         static void Main(string[] args)
         {
-            //Console.Title = "PENTAGON HACKING";
-            //Console.ForegroundColor = ConsoleColor.Green;
-            //var rnd = new Random();
-            //for (int i = 0; i <= 100; i++)
-            //{
-            //    Console.Write($"{i}%");
-            //    Thread.Sleep(rnd.Next(20, 300));
-            //    i += rnd.Next(0, 5);
-            //    Console.Write("\r");
-            //}
-
-            //Console.Beep();
-            //Console.Beep();
-
             Console.WriteLine("Testing list on array base:");
             var testArrayList = new ArrayList<int>();
             var testArrayList2 = new ArrayList<int>();
